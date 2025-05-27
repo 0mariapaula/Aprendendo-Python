@@ -43,4 +43,4 @@ while True:
         for i, g in enumerate(jogadores[consulta]['gols']):
             print(f'   No jogo {i + 1} fez {g} gol(s).')
 
-print('<< VOLTE SEMPRE >>')
+print('<< VOLTE SEMPRE >')
